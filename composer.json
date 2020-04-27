@@ -1,0 +1,14 @@
+{
+  "name": "ebarkey/328/food",
+  "authors":
+  [
+    {
+      "name": "Elric Barkey",
+      "email": "tostrander@greenriver.edu"
+    }
+  ],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
